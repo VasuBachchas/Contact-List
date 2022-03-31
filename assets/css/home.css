@@ -1,0 +1,15 @@
+#heading{
+    text-align: center;
+    color: gray;
+}
+body{
+    text-align: center;
+}
+#list{
+    list-style: none;
+    display: inline-block;
+}
+#item{
+    background-color: lightskyblue;
+    align-items: center;
+}
